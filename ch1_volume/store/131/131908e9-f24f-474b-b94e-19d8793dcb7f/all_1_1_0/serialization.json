@@ -1,1 +1,0 @@
-{"columns":[{"kind":"Default","name":"account_id","num_defaults":0,"num_rows":3937},{"kind":"Default","name":"client_id","num_defaults":0,"num_rows":3937},{"kind":"Default","name":"iban","num_defaults":0,"num_rows":3937},{"kind":"Default","name":"ingested_at","num_defaults":0,"num_rows":3937},{"kind":"Default","name":"opened_at","num_defaults":0,"num_rows":3937}],"version":0}
