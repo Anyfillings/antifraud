@@ -1,0 +1,58 @@
+columns substreams version: 1
+21 columns:
+3 substreams for column `hostname`:
+	hostname.dict_prefix
+	hostname.dict
+	hostname
+1 substreams for column `event_date`:
+	event_date
+1 substreams for column `event_time`:
+	event_time
+1 substreams for column `event_time_microseconds`:
+	event_time_microseconds
+1 substreams for column `view_duration_ms`:
+	view_duration_ms
+1 substreams for column `initial_query_id`:
+	initial_query_id
+1 substreams for column `view_name`:
+	view_name
+2 substreams for column `view_uuid`:
+	view_uuid.sparse.idx
+	view_uuid
+1 substreams for column `view_type`:
+	view_type
+1 substreams for column `view_query`:
+	view_query
+1 substreams for column `view_target`:
+	view_target
+2 substreams for column `read_rows`:
+	read_rows.sparse.idx
+	read_rows
+2 substreams for column `read_bytes`:
+	read_bytes.sparse.idx
+	read_bytes
+2 substreams for column `written_rows`:
+	written_rows.sparse.idx
+	written_rows
+2 substreams for column `written_bytes`:
+	written_bytes.sparse.idx
+	written_bytes
+1 substreams for column `peak_memory_usage`:
+	peak_memory_usage
+5 substreams for column `ProfileEvents`:
+	ProfileEvents%2Ekeys.dict_prefix
+	ProfileEvents.size0
+	ProfileEvents%2Ekeys.dict
+	ProfileEvents%2Ekeys
+	ProfileEvents%2Evalues
+1 substreams for column `status`:
+	status
+2 substreams for column `exception_code`:
+	exception_code.sparse.idx
+	exception_code
+2 substreams for column `exception`:
+	exception.sparse.idx
+	exception
+2 substreams for column `stack_trace`:
+	stack_trace.sparse.idx
+	stack_trace

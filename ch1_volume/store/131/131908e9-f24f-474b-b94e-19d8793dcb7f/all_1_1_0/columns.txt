@@ -1,0 +1,9 @@
+columns format version: 1
+7 columns:
+`account_id` UInt64
+`client_id` UInt64
+`iban` String
+`currency` LowCardinality(String)
+`opened_at` DateTime64(3, 'UTC')
+`status` LowCardinality(String)
+`ingested_at` DateTime64(3, 'UTC')

@@ -1,0 +1,9 @@
+columns format version: 1
+7 columns:
+`client_id` UInt64
+`first_name` String
+`last_name` String
+`birth_date` Date
+`country` LowCardinality(String)
+`created_at` DateTime64(3, 'UTC')
+`ingested_at` DateTime64(3, 'UTC')
