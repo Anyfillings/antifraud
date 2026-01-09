@@ -1,4 +1,3 @@
-# Antifraud Streaming Prototype (АСОБД)
 
 ## 1. Общее описание проекта
 
